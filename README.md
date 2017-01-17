@@ -19,3 +19,4 @@ https://kao.world.tmall.com/category-1173143562.htm?spm=a312a.7700824.w5001-1497
 text/html; charset=GBK
 
 ```
+https://github.com/ashtuchkin/iconv-lite/wiki/Use-Buffers-when-decoding
